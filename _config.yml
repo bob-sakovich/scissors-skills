@@ -1,0 +1,21 @@
+# Jekyll Configuration Settings for GitHub Pages
+
+# Title of your site
+title: My Awesome Site
+
+# Description of your site
+description: A description of your site.
+
+# Base URL
+baseurl: ""
+
+# URL of the site
+url: "https://yourusername.github.io/scissors-skills"
+
+# Theme settings
+theme: jekyll-theme-minimal
+
+# Other configurations
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
